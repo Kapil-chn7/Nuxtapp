@@ -1,0 +1,29 @@
+{
+  "name": "nuxt_app3",
+  "version": "1.0.0",
+  "description": "This is a demo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Kapil-chn7/Nuxtapp.git_.git"
+  },
+  "author": "Kapil Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kapil-chn7/Nuxtapp.git_/issues"
+  },
+  "homepage": "https://github.com/Kapil-chn7/Nuxtapp.git_#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "dgram": "^1.0.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "mongodb": "^3.5.9",
+    "mongodb-client-encryption": "^1.0.1",
+    "nodemailer": "^6.4.8",
+    "nodemon": "^2.0.4"
+  }
+}
